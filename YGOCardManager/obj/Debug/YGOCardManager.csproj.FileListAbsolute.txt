@@ -1,0 +1,17 @@
+c:\users\anime\documents\visual studio 2015\Projects\YGOCardManager\YGOCardManager\bin\Debug\YGOCardManager.exe.config
+c:\users\anime\documents\visual studio 2015\Projects\YGOCardManager\YGOCardManager\bin\Debug\YGOCardManager.exe
+c:\users\anime\documents\visual studio 2015\Projects\YGOCardManager\YGOCardManager\bin\Debug\YGOCardManager.pdb
+c:\users\anime\documents\visual studio 2015\Projects\YGOCardManager\YGOCardManager\obj\Debug\YGOCardManager.csprojResolveAssemblyReference.cache
+c:\users\anime\documents\visual studio 2015\Projects\YGOCardManager\YGOCardManager\obj\Debug\YGOCardManager.Properties.Resources.resources
+c:\users\anime\documents\visual studio 2015\Projects\YGOCardManager\YGOCardManager\obj\Debug\YGOCardManager.csproj.GenerateResource.Cache
+c:\users\anime\documents\visual studio 2015\Projects\YGOCardManager\YGOCardManager\obj\Debug\YGOCardManager.exe
+c:\users\anime\documents\visual studio 2015\Projects\YGOCardManager\YGOCardManager\obj\Debug\YGOCardManager.pdb
+c:\users\anime\documents\visual studio 2015\Projects\YGOCardManager\YGOCardManager\obj\Debug\YGOCardManager.MainForm.resources
+c:\users\anime\documents\visual studio 2015\Projects\YGOCardManager\YGOCardManager\bin\Debug\EntityFramework.dll
+c:\users\anime\documents\visual studio 2015\Projects\YGOCardManager\YGOCardManager\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\anime\documents\visual studio 2015\Projects\YGOCardManager\YGOCardManager\bin\Debug\System.Data.SQLite.dll
+c:\users\anime\documents\visual studio 2015\Projects\YGOCardManager\YGOCardManager\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\anime\documents\visual studio 2015\Projects\YGOCardManager\YGOCardManager\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\anime\documents\visual studio 2015\Projects\YGOCardManager\YGOCardManager\bin\Debug\EntityFramework.xml
+c:\users\anime\documents\visual studio 2015\Projects\YGOCardManager\YGOCardManager\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\anime\documents\visual studio 2015\Projects\YGOCardManager\YGOCardManager\bin\Debug\System.Data.SQLite.xml
